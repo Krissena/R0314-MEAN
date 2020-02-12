@@ -29,7 +29,7 @@ http
                 <tr>\
                     <td>John</td>\
                     <td>Jacket</td>\
-                    <td>casmere wool</a></td>\
+                    <td>cashmere wool</a></td>\
                 </tr>\
             </table>\
         </body>\
